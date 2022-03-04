@@ -20,5 +20,4 @@ Doubly Linked Circular List
 
 Delphi:
 
-
 Gwent
