@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/16 14:06:33.092.pas,Z:\Francois Combrinck PAT\Phase 1\Delphi program\Gwent_u.pas=C:\Users\Itgr10kbno1\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/16 14:06:33.092.dfm,Z:\Francois Combrinck PAT\Phase 1\Delphi program\Gwent_u.dfm=C:\Users\Itgr10kbno1\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/07/16 14:06:37.642.dproj,Z:\Francois Combrinck PAT\Phase 1\Delphi program\Gwent_p.dproj=C:\Users\Itgr10kbno1\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/07/16 14:43:29.646.dfm,Z:\Francois Combrinck PAT\Phase 1\Delphi program\frmMain_u.dfm=Z:\Francois Combrinck PAT\Phase 1\Delphi program\Unit1.dfm</Transaction>
+    <Transaction>2019/07/16 14:43:29.646.pas,Z:\Francois Combrinck PAT\Phase 1\Delphi program\frmMain_u.pas=Z:\Francois Combrinck PAT\Phase 1\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/07/16 14:50:47.334.dfm,Z:\Francois Combrinck PAT\Phase 1\Delphi program\Play_u.dfm=Z:\Francois Combrinck PAT\Phase 1\Delphi program\Unit1.dfm</Transaction>
+    <Transaction>2019/07/16 14:50:47.334.pas,Z:\Francois Combrinck PAT\Phase 1\Delphi program\Play_u.pas=Z:\Francois Combrinck PAT\Phase 1\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/08/23 06:11:36.000.702,=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/08/23 06:12:32.000.091,D:\Francois Combrinck PAT\Delphi program\Scoreboard_u.dfm=D:\Francois Combrinck PAT\Delphi program\Unit1.dfm</Transaction>
+    <Transaction>2019/08/23 06:12:32.000.091,D:\Francois Combrinck PAT\Delphi program\Scoreboard_u.pas=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/08/23 06:12:46.000.582,=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/08/23 06:14:01.000.726,D:\Francois Combrinck PAT\Delphi program\dmPlayerData_u.dfm=D:\Francois Combrinck PAT\Delphi program\Unit1.dfm</Transaction>
+    <Transaction>2019/08/23 06:14:01.000.726,D:\Francois Combrinck PAT\Delphi program\dmPlayerData_u.pas=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/08/29 16:18:44.000.587,=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/08/29 16:19:22.000.322,D:\Francois Combrinck PAT\Delphi program\Unit1.dfm=D:\Francois Combrinck PAT\Delphi program\frmDeck_u.dfm</Transaction>
+    <Transaction>2019/08/29 16:19:22.000.322,D:\Francois Combrinck PAT\Delphi program\Unit1.pas=D:\Francois Combrinck PAT\Delphi program\frmDeck_u.pas</Transaction>
+    <Transaction>2019/09/26 10:49:42.000.860,=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/09/26 10:50:44.000.329,D:\Francois Combrinck PAT\Delphi program\Constants_u.pas=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 06:56:19.000.816,=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 06:59:56.000.465,D:\Francois Combrinck PAT\Delphi program\SettingsAndResult_u.dfm=D:\Francois Combrinck PAT\Delphi program\Unit1.dfm</Transaction>
+    <Transaction>2019/09/30 06:59:56.000.465,D:\Francois Combrinck PAT\Delphi program\SettingsAndResult_u.pas=D:\Francois Combrinck PAT\Delphi program\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
